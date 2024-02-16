@@ -51,7 +51,7 @@ has been moved down.
 
 To access for code for learning:
 
-- Go to Git clone 'REPOLINK'
+- Go to Git clone https://github.com/nshibanda/Java-spark-week-1.git
 - Open cloned code on IntelliJ
 - Run on the Code to view output
 
@@ -69,7 +69,7 @@ If you need any assistance on any issues or have questions, ideas or concerns. K
 
 ## Github URL Link
 
-To be able to view the project click on 'GITHUBLINK'
+To be able to view the project click on https://github.com/nshibanda/Java-spark-week-1.git
 
 ### License
 
